@@ -1,0 +1,1 @@
+This is the repository for codes involved in the Rurality of Urban Sanitation Transformation (RUST) project.
