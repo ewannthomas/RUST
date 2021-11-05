@@ -1,6 +1,6 @@
 This is the repository for codes involved in the Rurality of Urban Sanitation Transformation (RUST) project.
 
-Data Used: NSS 76th round, NSS 69th round, Primary Survey data by RUST in Hyderabad
+Data Used: NSS 76th round, NSS 69th round, Primary Survey data by RUST in Hyderabad. NSS 76th and 69th round are available at the NSSO official website. Primary data is not available on public platform.
 
 NSS 76 Infix - Codes for extracting NSS 76 
 NSS 76 Operations - Codes for conducting various statistical opertions associated with RUST.
