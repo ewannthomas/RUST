@@ -1,1 +1,9 @@
 This is the repository for codes involved in the Rurality of Urban Sanitation Transformation (RUST) project.
+
+Data Used: NSS 76th round, NSS 69th round, Primary Survey data by RUST in Hyderabad
+
+NSS 76 Infix - Codes for extracting NSS 76 
+NSS 76 Operations - Codes for conducting various statistical opertions associated with RUST.
+cum freq - codes for generating the plots associated with the working papers. Conducted on R.
+Post estimation - codes for running all the post regression estimations.
+Graphing Margins - codes for creating coef plots and margins plot post logit regressions.
